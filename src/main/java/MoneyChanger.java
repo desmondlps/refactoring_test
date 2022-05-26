@@ -26,7 +26,7 @@ public class MoneyChanger {
             exchange = sgd * 0.93;
             currentTransactionProfit = exchange * 0.1;
         }
-        if (toCurrency == "EUR") {
+        if (toCurrency == "EUR1") {
             exchange = sgd * 0.68;
             currentTransactionProfit = exchange * 0.1;
         }
